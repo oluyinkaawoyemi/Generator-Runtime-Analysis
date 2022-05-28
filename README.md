@@ -1,2 +1,4 @@
 # Generator-Runtime-Analysis
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/download.jpg" alt="Generator" width="500"/>
 This is an analysis of the Generator runtime to enable stakeholders have proper servicing schedule, define diesel usage for the generator sets available.
+
