@@ -37,10 +37,34 @@ The data was collected in a crude way and was wriiten down and transcribed into 
 
 **The Result Set:**
 
-<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Hours%20of%20Usage.png" alt="Usage" width="100"/>
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Total%20Hours%20Used.png" alt="Usage" width="200"/>
 
 ### 3. Average Usage of the generating sets (Measured in Hours)?
+
+**The Result Set:**
+
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Average%20Usage.png" alt="Usage" width="200"/>
+
 ### 4. Number of times each generating set was used by weekdays?
+
+**The Result Set:**
+
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Number%20of%20Usage.png" alt="Usage" width="500"/>
+
 ### 5. Hours of usage for each generating set by weekdays
+
+**The Result Set:**
+
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Hours%20of%20Usage.png" alt="Usage" width="500"/>
+
 ### 6. Start hour by type of Generating set
+
+**The Result Set:**
+
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Start%20Hour.png" alt="Usage" width="500"/>
+
 ### 7. Percentage usage for each generating set
+
+**The Result Set:**
+
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Percentage%20Usage.png" alt="Usage" width="150"/>
