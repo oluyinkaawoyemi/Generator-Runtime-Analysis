@@ -31,8 +31,14 @@ The data was collected in a crude way and was wriiten down and transcribed into 
 
 **The Result Set:**
 
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Number%20of%20Usage.png" alt="Usage" width="500"/>
 
 ### 2. Total number of hours for which the genarators were used?
+
+**The Result Set:**
+
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Hours%20of%20Usage.png" alt="Usage" width="100"/>
+
 ### 3. Average Usage of the generating sets (Measured in Hours)?
 ### 4. Number of times each generating set was used by weekdays?
 ### 5. Hours of usage for each generating set by weekdays
