@@ -52,13 +52,13 @@ The data was collected in a crude way and was wriiten down and transcribed into 
 
 **The Result Set:**
 
-<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Number%20of%20Usage.png" alt="Usage" width="500"/>
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Numbers%20....2.png" alt="Usage" width="500"/>
 
 ### 5. Hours of usage for each generating set by weekdays
 
 **The Result Set:**
 
-<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Hours%20of%20Usage.png" alt="Usage" width="500"/>
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Hours...%202.png" alt="Usage" width="500"/>
 
 ### 6. Start hour by type of Generating set
 
