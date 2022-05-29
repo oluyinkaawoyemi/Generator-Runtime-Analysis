@@ -18,6 +18,7 @@ This is an analysis of the Generator runtime to enable stakeholders have proper 
   - [5. Hours of usage for each generating set by weekdays](#5-Hours-of-usage-for-each-generating-set-by-weekdays)
   - [6. Start hour by type of Generating set](#5-Start-hour-by-type-of-Generating-set)
   - [7. Percentage usage for each generating set](#5-Percentage-usage-for-each-generating-set)
+- [Recommendations](#Recommendations)
 
 ## PROBLEM STATEMENT
 
@@ -53,6 +54,8 @@ The data was collected in a crude way and was wriiten down and transcribed into 
 
 <img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Numbers%20....2.png" alt="Usage" width="500"/>
 
+The chart above shows that there is a high usage(63.5%) of the 80KVA compared to others, most especially on Mondays, Thursdays and on Fridays.
+
 ### 5. Hours of usage for each generating set by weekdays
 
 **The Result Set:**
@@ -70,3 +73,13 @@ The data was collected in a crude way and was wriiten down and transcribed into 
 **The Result Set:**
 
 <img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Percentage%20Usage.png" alt="Usage" width="150"/>
+
+The chart above shows that there is a high usage(63.5%) of the 80KVA compared to others.
+
+## RECOMMENDATIONS
+
+The Small Generator should be serviced one every two months for optimal performance.
+
+The 80KVA Generator from the analysis seems to be the one used more frequently than the others and so requires more care. Maintenance should be done more frequently than usual. Once quarterly is recommended by a professional.
+
+The 160KVA Generator seems not to see as much run time as the rest and since its used sparingly, it is recommended that servicing be done once yearly.
