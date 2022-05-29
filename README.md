@@ -34,7 +34,7 @@ The data was collected in a crude way and was wriiten down and transcribed into 
 
 **The Result Set:**
 
-<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Number%20of%20Usage.png" alt="Usage" width="500"/>
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Number%20of%20times%20used.png" alt="Usage" width="500"/>
 
 ### 2. Total number of hours for which the genarators were used?
 
