@@ -58,7 +58,7 @@ The data was collected in a crude way and was wriiten down and transcribed into 
 
 **The Result Set:**
 
-<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Hours...%202.png" alt="Usage" width="500"/>
+<img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Screenshot%20(56).png" alt="Usage" width="500"/>
 
 ### 6. Start hour by type of Generating set
 
