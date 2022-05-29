@@ -2,8 +2,7 @@
 
 <img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/download-removebg-preview.png" alt="Generator" width="150"/>
 
-This is an analysis of the Generator runtime to enable stakeholders have proper servicing schedule, while defining diesel usage for the generator sets available.
-
+This is an analysis of the Generator runtime to enable stakeholders have proper servicing schedule, while defining diesel usage for the generator sets available. This analysis was carried out between the beginning of the second week in January and the end of February, 2022.
 
 <img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Screenshot%20(53).png" alt="Generator" width="700"/>
 
