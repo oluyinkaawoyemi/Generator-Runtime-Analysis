@@ -54,7 +54,7 @@ The data was collected in a crude way and was wriiten down and transcribed into 
 
 <img src="https://github.com/oluyinkaawoyemi/Generator-Runtime-Analysis/blob/main/Numbers%20....2.png" alt="Usage" width="500"/>
 
-The chart above shows that there is a high usage(63.5%) of the 80KVA compared to others, most especially on Mondays, Thursdays and on Fridays.
+The chart above shows that there is a high usage of the 80KVA compared to others, most especially on Mondays, Thursdays and on Fridays.
 
 ### 5. Hours of usage for each generating set by weekdays
 
